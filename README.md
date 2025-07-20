@@ -1,3 +1,13 @@
+# Utilla Lib
+
+Utilla Lib is a Gamemode Manager that works for Gorilla Tag.
+
+# Supported Mods
+
+Original Bark Mod Menu
+
+Original Mono Sandbox
+
 # Utilla
 
 A PC library for Gorilla Tag that handles various room-related things (and more?)
